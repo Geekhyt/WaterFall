@@ -1,1 +1,2 @@
 # WaterFall
+瀑布流效果，类似于手机的下拉刷新和上拉刷新，用到Underscore类库和原生JavaScript加一点自己封装的滚动函数
